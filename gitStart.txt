@@ -1,0 +1,9 @@
+git init 
+
+git add .
+
+git commit 
+
+git push
+
+깃을 시작합니다.
